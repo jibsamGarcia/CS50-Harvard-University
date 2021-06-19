@@ -5,7 +5,7 @@ Solutions for CS50's Introduction to Artificial Intelligence with Python course 
 
 # Includes:
 
-Quizzes answers contact: hpjibsamgarcia@gmail.com 
+Quizzes answers contact: https://github.com/jibsamGarcia/CS50-Harvard-University/tree/main/Quiz%C2%B4s
 
 Projects solutions
 
