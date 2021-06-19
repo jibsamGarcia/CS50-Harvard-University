@@ -16,3 +16,5 @@ edX Course Verified Certificate
 Name: CS50's Introduction to Artificial Intelligence with Python Harvard University 
 
 Certificate: https://cs50.harvard.edu/certificates/ee728d38-ed86-4b84-8dd6-e3957ce04655
+
+![Screenshot](certificado.png)
