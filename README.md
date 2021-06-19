@@ -1,15 +1,15 @@
 
-#CS50-Harvard-University
+# CS50-Harvard-University
 
 Solutions for CS50's Introduction to Artificial Intelligence with Python course (guidance for practices).
 
-#Includes:
+# Includes:
 
 Quizzes answers contact: hpjibsamgarcia@gmail.com 
 
 Projects solutions
 
-#Course info:
+# Course info:
 
 edX course verified certificate 
 
